@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 # Configurações do Gmail
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_REMETENTE = "seuemail@gmail.com"  # Seu e-mail do Gmail
-EMAIL_SENHA = "sua_senha_de_aplicativo"  # Sua senha de aplicativo do Gmail
+EMAIL_REMETENTE = "daniucs@gmail.com"  # Seu e-mail do Gmail
+EMAIL_SENHA = "twyf hfdk ssxr bffw"  # Sua senha de aplicativo do Gmail
 EMAIL_DESTINATARIO = "danihertz@gmail.com"
 
 # Definir a variável to (quantidade de dias a serem somados)
