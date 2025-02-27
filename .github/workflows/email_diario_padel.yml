@@ -4,7 +4,8 @@ name: Run Python Script Daily
 on:
   schedule:
     - cron: '0 8 * * *' # Executa às 8h da manhã (UTC) todos os dias
-
+  workflow_dispatch: # Adiciona a opção de execução manual
+  
 # Define os jobs (tarefas) a serem executados
 jobs:
   run-script:
